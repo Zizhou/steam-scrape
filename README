@@ -1,0 +1,4 @@
+Multiple tools to get Steam library info en masse.
+
+Add your Steam API key to the 'secrets.py' file and/or STEAM_API_KEY 
+environment variable. I'm sure there's a better way to do this, but eh.
