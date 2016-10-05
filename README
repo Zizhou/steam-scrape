@@ -1,4 +1,9 @@
-Multiple tools to get Steam library info en masse.
+Multiple tools to get Steam library info en masse. Originally for the devletter
+scraper, but I realized that it's not actually dependent on anything. Plus, I
+need to keep up this github activity somehow, since I just stopped totally
+misusing it to update the original devletter site and actually figured out how
+to shot web with the 'modern' iteration.
 
+Setup:
 Add your Steam API key to the 'secrets.py' file and/or STEAM_API_KEY 
 environment variable. I'm sure there's a better way to do this, but eh.
